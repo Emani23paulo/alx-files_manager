@@ -23,3 +23,10 @@ APIs
 A Google API should be created with at least an email sending scope and a valid URL (e.g.; http://localhost:5000/) should be one of the redirect URIs. The credentials.json file should be stored in the root directory of this project.
 Environment Variables
 The required environment variables should be stored in a file named .env and each line should have the format Name=Value. The table below lists the environment variables that will be used by this server:
+
+Contributors:
+
+The following are team members for the project:
+
+1.  Emmanuel Ibe <ceaselessflows@yahoo.com>
+2.  Emmanuel Okon
